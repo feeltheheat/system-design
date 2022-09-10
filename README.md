@@ -1,4 +1,4 @@
-# system-design-2
+# system-design-1
 forked from karanpratapsingh/system-design
 
 # Table of contents
